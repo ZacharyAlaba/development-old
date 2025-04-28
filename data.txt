@@ -1,6 +1,0 @@
-{
-  "name": "Zachary Alaba",
-  "description": "This is my Shop",
-  "price": 19.99,
-  "stock": 100
-}
